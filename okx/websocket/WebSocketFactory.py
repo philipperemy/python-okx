@@ -5,7 +5,7 @@ import ssl
 import certifi
 import websockets
 
-logging.basicConfig(level=logging.INFO)
+# logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("WebSocketFactory")
 
 
